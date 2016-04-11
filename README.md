@@ -18,13 +18,13 @@ bundle install
 Add to your app/assets/javascripts/application.js
 
 ```sh
-//= require multi-select
+//= require multiselect
 ```
 #### Include multiselect stylesheet
 
 Add to your app/assets/stylesheets/application.css
 ```sh
-*= require multi-select
+*= require multiselect
 ```
 #### Updating the gem
 
